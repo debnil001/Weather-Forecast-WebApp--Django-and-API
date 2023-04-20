@@ -1,6 +1,6 @@
 # Weather-Forecast-WebApp--Django-and-API
 
-This webapplication is made with Django framework of Python. This project also use Weather API to fetch weather information of a particular city.
+This web application is made with Django framework of Python. This project also uses Weather API to fetch weather information of a particular city.
 To search a location's weather you just have to enter the city name and with the help of weather API Django will bring the Weather forecast of that city.
 
 # Website View
